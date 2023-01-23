@@ -8,8 +8,8 @@ body {
   background-color: #09090a;
   color: white;
 
-  height:: 100vh;
-}:
+  height: 100vh;
+}
 
 header {
   display: flex;
